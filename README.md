@@ -5,3 +5,7 @@ This repository is an experimental face-embedding similarity POC using InsightFa
 It does not make identity decisions.
 Outputs are similarity scores for human review only.
 Do not upload private, sensitive, or unauthorized images to this repository.
+
+![AlphaFold Protein](https://raw.githubusercontent.com/debabratapruseth/insightface-image-similarity-poc/main/Image%20Run%20Output.png)
+
+ 
